@@ -1,0 +1,2 @@
+rootProject.name = "Pure Dependency Injection Using Methods Kotlin"
+include ':app'
